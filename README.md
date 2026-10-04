@@ -1,3 +1,4 @@
+<img src="icons/GitSyncWorkbench.svg" alt="" width="64" align="right">
 # GitSync for FreeCAD
 
 GitSync is a small FreeCAD workbench for working with a Git repository that

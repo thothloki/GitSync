@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
+  <name>GitSync</name>
+  <description>GitSync is a small FreeCAD workbench for working with a Git repository that contains FreeCAD and CAD model files.</description>
+  <version>0.1.0</version>
+  <date>2026-10-04</date>
+  <maintainer>MasterOfNone</maintainer>
+  <author>MasterOfNone</author>
+  <license file="LICENSE">LGPL-2.1-or-later</license>
+  <url type="readme">https://github.com/thothloki/GitSync/blob/main/README.md</url>
+  <url type="repository" branch="main">https://github.com/thothloki/GitSync</url>
+  <url type="bugtracker">https://github.com/thothloki/GitSync/issues</url>
+  <icon>icons/GitSyncWorkbench.svg</icon>
+  <freecadmin>1.1.0</freecadmin>
+  <pythonmin>3.11</pythonmin>
+  <tag>git</tag>
+  <tag>sync</tag>
+  <tag>github</tag>
+  <tag>foregjo</tag>
+  <tag>gitea</tag>
+  <content>
+    <workbench>
+      <name>GitSync</name>
+      <description>itSync is a small FreeCAD workbench for working with a Git repository that contains FreeCAD and CAD model files.</description>
+      <subdirectory>./</subdirectory>
+      <icon>icons/GitSyncWorkbench.svg</icon>
+    </workbench>
+  </content>
+</package>

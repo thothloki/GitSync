@@ -2,7 +2,7 @@
 <package format="1" xmlns="https://wiki.freecad.org/Package_Metadata">
   <name>GitSync</name>
   <description>GitSync is a small FreeCAD workbench for working with a Git repository that contains FreeCAD and CAD model files.</description>
-  <version>0.1.0</version>
+  <version>0.1.1</version>
   <date>2026-10-04</date>
   <maintainer>MasterOfNone</maintainer>
   <author>MasterOfNone</author>

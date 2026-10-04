@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- GitSync model tree: expanded folder (points down).  See
+     tree-branch-closed.svg for why GitSync ships its own arrow and why the
+     fill is #5eb2ff rather than the theme's #4aa5ff accent. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 12 12">
+  <path d="M 2 4 L 6 9.5 L 10 4 Z" fill="#5eb2ff"/>
+</svg>
